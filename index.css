@@ -1,0 +1,27 @@
+button{
+    height:20px ;
+    width:45px ;
+    box-shadow: 2px 3px 4px ;
+   padding: 16px;
+   border-radius: 9%;
+
+}
+input{
+    width: 175x;
+    padding: 14px;
+ 
+
+    background-color:aquamarine;
+}
+.md{
+    padding: 30px;
+    border: 2px solid;
+    width: 200px;
+    background-color:mediumpurple;
+    box-shadow: 2px 3px 4px 5px ;
+    
+}
+
+button:active{
+    background-color: rgb(11, 11, 71);
+}
